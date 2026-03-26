@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Starter code", "Starter code", "{9031A8B1-2CDB-88AD-02A8-83AA1A2D2F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi", "Starter code\ProductApi\ProductApi.csproj", "{CABE0743-CE7D-271C-84E1-14F18E4E6B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABE0743-CE7D-271C-84E1-14F18E4E6B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABE0743-CE7D-271C-84E1-14F18E4E6B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABE0743-CE7D-271C-84E1-14F18E4E6B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABE0743-CE7D-271C-84E1-14F18E4E6B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CABE0743-CE7D-271C-84E1-14F18E4E6B85} = {9031A8B1-2CDB-88AD-02A8-83AA1A2D2F31}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D93D46-636D-42EE-BC0D-82D2670B0C79}
+	EndGlobalSection
+EndGlobal
